@@ -12,12 +12,7 @@ const MonthlyIntakeSubmitted = (props) => {
           },
           xaxis: {
             categories: [
-              "Nov 2023",
-              "Dec 2023",
-              "Jan 2024",
-              "Feb 2024",
-              "Mar 2024",
-              "Apr 2024",
+              
               "May 2024",
               "Jun 2024",
               "Jul 2024",
@@ -61,12 +56,7 @@ const MonthlyIntakeSubmitted = (props) => {
           },
           xaxis: {
             categories: [
-              "Nov 2023",
-              "Dec 2023",
-              "Jan 2024",
-              "Feb 2024",
-              "Mar 2024",
-              "Apr 2024",
+            
               "May 2024",
               "Jun 2024",
               "Jul 2024",
@@ -107,7 +97,7 @@ const MonthlyIntakeSubmitted = (props) => {
     {
       name: "Intake Submitted",
       data: [
-        16114, 18686, 20128, 18686, 18100, 18686, 18064, 18686, 20164, 16686,
+         18064, 18686, 20164, 16686,
         18114, 18686,
       ], // Alternating same/different data
     },
